@@ -1,6 +1,6 @@
 package com.shuyu.gsyvideoplayer.cache;
 
-import com.danikula.videocache.headers.HeaderInjector;
+import com.danikula.videocachecopy.headers.HeaderInjector;
 import com.shuyu.gsyvideoplayer.utils.Debuger;
 
 import java.util.HashMap;

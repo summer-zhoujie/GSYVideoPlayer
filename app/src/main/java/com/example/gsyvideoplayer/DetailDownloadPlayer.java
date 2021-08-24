@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.danikula.videocache.HttpProxyCacheServer;
+import com.danikula.videocachecopy.HttpProxyCacheServer;
 import com.example.gsyvideoplayer.databinding.ActivityDetailDownloadPlayerBinding;
 import com.example.gsyvideoplayer.utils.MemoryCallBack;
 import com.google.android.exoplayer2.SeekParameters;

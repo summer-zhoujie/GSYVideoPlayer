@@ -4,13 +4,13 @@ import android.content.Context;
 import android.net.Uri;
 import android.text.TextUtils;
 
-import com.danikula.videocache.CacheListener;
-import com.danikula.videocache.HttpProxyCacheServer;
-import com.danikula.videocache.file.FileNameGenerator;
-import com.danikula.videocache.file.Md5FileNameGenerator;
+import com.danikula.videocachecopy.CacheListener;
+import com.danikula.videocachecopy.HttpProxyCacheServer;
+import com.danikula.videocachecopy.file.FileNameGenerator;
+import com.danikula.videocachecopy.file.Md5FileNameGenerator;
 import com.shuyu.gsyvideoplayer.utils.CommonUtil;
 import com.shuyu.gsyvideoplayer.utils.FileUtils;
-import com.danikula.videocache.StorageUtils;
+import com.danikula.videocachecopy.StorageUtils;
 
 import java.io.File;
 import java.io.IOException;
